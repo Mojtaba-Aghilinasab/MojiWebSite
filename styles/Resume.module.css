@@ -1,0 +1,62 @@
+.resume {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.title {
+  text-align: left;
+}
+
+.title span {
+  color: #ff2511;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.exp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 40px 20px 20px 10px;
+}
+
+.exp_title span {
+  color: #ff2511;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.exp_detail {
+  margin-top: -10px;
+  width: 70%;
+}
+.exp_year {
+  font-size: 25px;
+  color: #302e2e;
+  font-style: italic;
+}
+.exp_year span {
+  color: #ff2511;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.exp_company {
+  margin-top: -10px;
+  font-size: 22px;
+  color: #302e2e;
+  font-style: bold;
+}
+.edu_uni {
+  margin-top: -10px;
+  font-size: 20px;
+  color: #302e2e;
+  font-style: bold;
+}
+
+.exp_data {
+  font-size: 17px;
+  font-style: oblique;
+  color: #868b8e;
+  max-width: 400px;
+}

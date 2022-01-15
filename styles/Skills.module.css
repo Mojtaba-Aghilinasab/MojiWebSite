@@ -1,0 +1,26 @@
+.skills {
+  margin-top: 50px;
+}
+
+.title {
+  margin-left: 50px;
+  text-align: left;
+}
+
+.title span {
+  color: #ff2511;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.skills_imgs_flex {
+  margin: 10px 50px 50px 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  row-gap: 25px;
+  justify-content: center;
+}
+.skill_img {
+  height: 125px;
+  width: 125px;
+}
